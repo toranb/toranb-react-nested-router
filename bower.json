@@ -1,0 +1,20 @@
+{
+  "name": "toranb-react-nested-router",
+  "version": "0.1.0",
+  "homepage": "https://github.com/toranb/toranb-react-nested-router",
+  "authors": [
+    "Toran Billups <toranb@gmail.com>"
+  ],
+  "description": "a bower module for the amazing react-nested-router",
+  "main": "main.js",
+  "keywords": [
+    "react",
+    "react-nested-router"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
