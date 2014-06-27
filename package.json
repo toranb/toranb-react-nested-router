@@ -1,0 +1,14 @@
+{
+  "main": "main",
+  "jspm": {
+    "shim": {
+      "main": {
+        "deps": ["react"]
+      }
+    },
+    "registry": "jspm",
+    "dependencies": {
+      "react": "^0.10.0"
+    }
+  }
+}
